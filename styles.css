@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#headshot {
+    height: 20%;
+    width: 20%;
+}
