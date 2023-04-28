@@ -45,3 +45,26 @@ body {
 .about-title {
     font-size: 2rem;
 }
+
+/* Projects */
+
+.project-big-title {
+    font-size: 3rem;
+    padding-bottom: 3rem;
+}
+.projects {
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 20rem 20rem 20rem;
+    text-align: left;
+    padding-left: 2rem;
+}
+
+.project {
+    /* margin: 2rem; */
+}
+
+.project-title {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
