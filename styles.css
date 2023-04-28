@@ -1,4 +1,4 @@
-* {
+body {
     background-color: black;
     color: white;
     text-align: center;
@@ -7,4 +7,12 @@
 #headshot {
     height: 20%;
     width: 20%;
+}
+
+.header {
+    color: rgb(127, 238, 246);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 3rem;
 }
