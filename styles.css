@@ -47,10 +47,11 @@ body {
 }
 
 /* Projects */
-
 .project-big-title {
     font-size: 3rem;
     padding-bottom: 3rem;
+    text-align: right;
+    padding-right: 3rem;
 }
 .projects {
     display: grid;
@@ -68,3 +69,5 @@ body {
     font-size: 2rem;
     padding-bottom: 2rem;
 }
+
+/* Contact */
